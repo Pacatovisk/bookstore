@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 e56eff73a64c82910279f0a1d938f02853c96f19 Pacatovisk <marcelovianadias@outlook.com> 1611673667 -0300	commit (initial): initial commit
+e56eff73a64c82910279f0a1d938f02853c96f19 cc6fd980239cb6c22ec338a9e0d8b10250ddbd3a Pacatovisk <marcelovianadias@outlook.com> 1611679959 -0300	commit: angular material instalado no projeto
+cc6fd980239cb6c22ec338a9e0d8b10250ddbd3a 3ff9e7070867335124eee371e6a6e86bbbbd59f2 Pacatovisk <marcelovianadias@outlook.com> 1611684519 -0300	commit: componentes header e footer estão concluidos
+3ff9e7070867335124eee371e6a6e86bbbbd59f2 1eddfc16f9ab6dbdafe6b25a9c46e11aa81268aa Pacatovisk <marcelovianadias@outlook.com> 1611687118 -0300	commit: implementando o componente NAV
+1eddfc16f9ab6dbdafe6b25a9c46e11aa81268aa bf13999752dee309faa7afe589cfec46cff11f3c Pacatovisk <marcelovianadias@outlook.com> 1611688862 -0300	commit: home implementado com rota
+bf13999752dee309faa7afe589cfec46cff11f3c 38a253be9e48d628e498f0c3fcce3231ad76dae1 Pacatovisk <marcelovianadias@outlook.com> 1611705812 -0300	commit: categoria-read foi implementado
+38a253be9e48d628e498f0c3fcce3231ad76dae1 2184aba9cb44066219860e6bd133726570d5f29e Pacatovisk <marcelovianadias@outlook.com> 1611707292 -0300	commit: ajuste no component-read
+2184aba9cb44066219860e6bd133726570d5f29e 0dced0a57c31d76be0bb0e8568fd3b078d1ad19e Pacatovisk <marcelovianadias@outlook.com> 1611708920 -0300	commit: inicializando a rota do componente categoria-create
+0dced0a57c31d76be0bb0e8568fd3b078d1ad19e 3c7459954edd00baafe375e304f3edf9785ef023 Pacatovisk <marcelovianadias@outlook.com> 1611751010 -0300	commit: metodo create implementado para categoria
+3c7459954edd00baafe375e304f3edf9785ef023 f70041973d75e3c1549d4242d1ec5906d615be04 Pacatovisk <marcelovianadias@outlook.com> 1611751271 -0300	commit: finalizando o metodo CREATE
+f70041973d75e3c1549d4242d1ec5906d615be04 e3eae2ec22477c2252f08fd34c2d3d925e6c5805 Pacatovisk <marcelovianadias@outlook.com> 1611753652 -0300	commit: categoria delete implementada
+e3eae2ec22477c2252f08fd34c2d3d925e6c5805 0285cff1a193cd8b336bef14d84de0e8db56d77e Pacatovisk <marcelovianadias@outlook.com> 1611756402 -0300	commit: update para categoria foi implementado
+0285cff1a193cd8b336bef14d84de0e8db56d77e e4682f1251f4a9b4bceb2c03133aee1d8e815ef6 Pacatovisk <marcelovianadias@outlook.com> 1611760218 -0300	commit: metodo de leitura de todos os livros por categoria implementado
+e4682f1251f4a9b4bceb2c03133aee1d8e815ef6 9e7867c0287ecbcd47cbd890369890b2221e6c13 Pacatovisk <marcelovianadias@outlook.com> 1611856987 -0300	commit: implementando o componente livro-create
+9e7867c0287ecbcd47cbd890369890b2221e6c13 e1f64e6e151d5c0bc004b155691a938f0adc31a9 Pacatovisk <marcelovianadias@outlook.com> 1611879217 -0300	commit: implementado o componente livro-create
+e1f64e6e151d5c0bc004b155691a938f0adc31a9 7ed3beee4ca7b8d54ab9f22f1a490e40c95f4f19 Pacatovisk <marcelovianadias@outlook.com> 1612290402 -0300	commit: UPDATE para Livro implementado
+7ed3beee4ca7b8d54ab9f22f1a490e40c95f4f19 169ebc96582826c6fe01e8dad4dae0e21cdea63f Pacatovisk <marcelovianadias@outlook.com> 1612291492 -0300	commit: DELETE para Livro implementado
+169ebc96582826c6fe01e8dad4dae0e21cdea63f e227ed83e3d041be5e20845137b34d20485cb3ba Pacatovisk <marcelovianadias@outlook.com> 1612293953 -0300	commit: READ para Livro implementado
+e227ed83e3d041be5e20845137b34d20485cb3ba 79fc8cae123371071b89365a89da66572ed62943 Pacatovisk <marcelovianadias@outlook.com> 1612294158 -0300	commit: ajustes no titulo da pagina home
+79fc8cae123371071b89365a89da66572ed62943 7287cdd9cb3a20ac3cd845091357bd350bb6e6c2 Pacatovisk <marcelovianadias@outlook.com> 1612363391 -0300	commit: ativando a baseUrl de producao
