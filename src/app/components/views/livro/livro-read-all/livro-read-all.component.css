@@ -18,7 +18,7 @@ button {
 }
 
  .mat-stroked-button.mat-primary {
-    color: rgb(85, 16, 3);
+    color: rgb(3, 62, 85);
 }
 
 .table {
@@ -26,16 +26,16 @@ button {
 }
 
 .edit {
-    color: rgb(12, 209, 12);
+    color: rgb(180, 209, 12);
 }
 
 .book {
-    color: brown;
+    color: rgb(42, 165, 144);
     margin-left: .5rem;
 }
 
 .delete {
-    color: rgb(236, 9, 9);
+    color: rgb(236, 54, 9);
     margin-left: .5rem;
 }
 
